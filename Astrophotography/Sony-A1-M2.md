@@ -1,4 +1,5 @@
 ## Astrophotography optimized configuration for Sony α1 II (ILCE-1M2 v2.00)
+These settings are optimized for the Sony FE 24mm f/1.4 GM (SEL24F14GM) lens
 
 ### Exposure & Shooting Controls
 
