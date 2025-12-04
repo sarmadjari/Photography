@@ -1,7 +1,8 @@
 # Ricoh GR IV User Custom Profile Configuration Guide
 
-**U1 • U2 • U3 — Street | Portraits | Travel & Landscape**
-
+**U1 • Street**
+**U2 • Portraits**
+**U3 • Travel & Landscape**
 ---
 
 ## Introduction
