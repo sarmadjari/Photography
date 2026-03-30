@@ -71,9 +71,9 @@ These settings are optimized for the Sony FE 24mm f/1.4 GM (SEL24F14GM) lens
   ```
 * **Peaking Display & Configuration**
   ```
-  MENU → Focus → Peaking Display → On  
-  MENU → Focus → Peaking Level → Low  
-  MENU → Focus → Peaking Color → Red
+  MENU → Focus → Peaking Display → Peaking Display → On
+  MENU → Focus → Peaking Display → Peaking Level → Mid
+  MENU → Focus → Peaking Display → Peaking Color → Red
   ```
 ---
 
@@ -99,7 +99,7 @@ These settings are optimized for the Sony FE 24mm f/1.4 GM (SEL24F14GM) lens
 
 * After configuring all the settings above:
   ```
-  MENU → Shooting → Camera Set. Memory → 1 → Register
+  MENU → Shooting → Shooting Mode → Camera Set. Memory → 1 → Register
   ```
 ---
 
@@ -137,7 +137,7 @@ These settings are optimized for the Sony FE 24mm f/1.4 GM (SEL24F14GM) lens
 | File Format        | RAW Uncompressed                                        |
 | White Balance      | 3800 K                                                  |
 | NR                 | Long Exposure NR Off, High ISO NR Off                   |
-| Focus              | MF, Auto Magnifier On, No Limit Time, Peaking (Low/Red) |
+| Focus              | MF, Auto Magnifier On, No Limit Time, Peaking (Mid/Red) |
 | IBIS               | Off                                                     |
 | Drive Mode         | Self-Timer 2 sec (or continuous option)                 |
 | Histogram          | Toggle via DISP                                         |
